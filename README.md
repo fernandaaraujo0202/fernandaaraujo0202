@@ -48,7 +48,3 @@ Estou sempre aberta a trocar conhecimentos sobre lógica, algoritmos e o mundo d
   <a href="mailto:ferrnanda.taissa@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-### 🐍 Jogo da Cobrinha
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fernandaaraujo0202/fernandaaraujo0202/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
