@@ -41,7 +41,7 @@ Atualmente, dedico meu tempo à especialização contínua através de **vídeo 
 ---
 
 ### 🤝 Vamos conversar?
-Estou sempre aberta a trocar conhecimentos sobre lógica, algoritmos e o mundo dos dados!
+Estou sempre aberta a trocar conhecimentos!!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/fernandaaraujo0202" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
