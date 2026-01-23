@@ -1,18 +1,18 @@
 # Oie... eu sou a Fernanda! 👋
 
-### 🎓 De Matemática para a Tecnologia
-Sou **formada em Matemática** e estou trilhando minha transição para o universo da programação. Acredito que a lógica matemática é a base para as grandes inovações tecnológicas, e hoje aplico esse pensamento analítico para resolver problemas através do código.
+### Matemática ᯓ➤ Tecnologia
+Sou **formada em Matemática** e estou trilhando minha transição para o universo da programação. Acredito que a união minhas habilidades de raciocínio lógico e analítico a novos conhecimentos na área da tecnologia tornará meus projetos cada vez mais eficiente e poderosos!
 
-- 🚀 **Foco atual:** Automação e Inteligência Artificial.
-- 🌱 **Em constante aprendizado:** Atualmente mergulhando em **Python** e suas bibliotecas para  projetos de Automação, IA e ciência de dados.
-- 💡 **Diferencial:** Capacidade analítica, modelagem de dados, resolução de problemas e disposição para sempre aprender mais!
-- 
+
+- 🎯 **Foco atual:** Automação e Inteligência Artificial.
+- 🧠 **Em constante aprendizado:** Atualmente mergulhando em **Python** e suas bibliotecas para  projetos de Automação, IA e ciência de dados.
+- 🥇 **Diferencial:** Capacidade analítica, modelagem de dados, resolução de problemas e disposição para sempre aprender mais!
+  
 - 📫 Como me encontrar: www.linkedin.com/in/fernandaaraujo0202
-- 
 ---
 
 ### 🛠 Ferramentas e Tecnologias
-Aqui estão as tecnologias que utilizo para construir soluções inteligentes e automatizadas:
+Essas são algumas das ferramentas que uso nos meus projetos:
 
 ![Minhas Habilidades](https://skillicons.dev/icons?i=python,vscode,postgres,supabase,css,html,js,md&theme=dark)
 
@@ -27,16 +27,23 @@ Aqui estão as tecnologias que utilizo para construir soluções inteligentes e 
 - 🤖 **Ollama** para implementação de IA e Modelos de Linguagem locais.
 - 📊 **Streamlit** para criação de dashboards e interfaces de dados rápidas.
 
-
 ---
 
 > ### 📈 Evolução e Estudos
 Atualmente, dedico meu tempo à especialização contínua através de **vídeo aulas, apostilas e cursos**, mas meu foco principal está na **prática**.
 
-- 📚 Estou em constante aprendizado acadêmico e técnico.
+- 📚 Estudando: Robot Framework e n8n
 - 💻 Pratico diariamente através de projetos.
 - 📂 Registro minha evolução em repositórios aqui no GitHub para compartilhar conhecimento.
+---
 
+> ### Entenda como meu perfil está organizado:
+As pastas dos meus projetos seguem essa estrutura padrão de nomenclatura:
+    *ia_nome-do-projeto
+    *analise_nome-do-projeto
+    *automacao_nome-do-projeto
+    
+A escolha depende do objetivo principal do trabalho. 
 
 ---
 
