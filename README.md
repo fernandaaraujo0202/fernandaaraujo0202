@@ -39,9 +39,9 @@ Atualmente, dedico meu tempo à especialização contínua através de **vídeo 
 
 > ### Entenda como meu perfil está organizado:
 As pastas dos meus projetos seguem essa estrutura padrão de nomenclatura:
-    - ia_nome-do-projeto
-    - analise_nome-do-projeto
-    - automacao_nome-do-projeto
+- ia_nome-do-projeto
+- analise_nome-do-projeto
+- automacao_nome-do-projeto
     
 A escolha depende do objetivo principal do trabalho. 
 
