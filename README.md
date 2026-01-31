@@ -14,7 +14,7 @@ Sou **formada em Matemática** e estou trilhando minha transição para o univer
 ### 🛠 Ferramentas e Tecnologias
 Essas são algumas das ferramentas que uso nos meus projetos:
 
-![Minhas Habilidades](https://skillicons.dev/icons?i=python,vscode,postgres,supabase,css,html,js,md&theme=dark)
+![Minhas Habilidades](https://skillicons.dev/icons?i=python,vscode,postgres,supabase,css,html,docker,js,md&theme=dark)
 
 **Ecosystem & Workflows:**
 
