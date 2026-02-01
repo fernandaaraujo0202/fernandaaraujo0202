@@ -1,22 +1,5 @@
 # Oie... eu sou a Fernanda! 👋
 
-
-
-<div align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fernandaaraujo0202&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=fernandaaraujo0202&layout=compact&theme=dracula&langs_count=5&card_width=320"
-    height="150"
-  />
-</div>
-
-
-
-
-
 ### Matemática ᯓ➤ Tecnologia
 Sou **formada em Matemática** e estou trilhando minha transição para o universo da programação. Acredito que a união minhas habilidades de raciocínio lógico e analítico a novos conhecimentos na área da tecnologia tornará meus projetos cada vez mais eficiente e poderosos!
 
