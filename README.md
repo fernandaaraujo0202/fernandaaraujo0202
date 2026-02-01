@@ -16,6 +16,7 @@
 
 
 
+
 ### Matemática ᯓ➤ Tecnologia
 Sou **formada em Matemática** e estou trilhando minha transição para o universo da programação. Acredito que a união minhas habilidades de raciocínio lógico e analítico a novos conhecimentos na área da tecnologia tornará meus projetos cada vez mais eficiente e poderosos!
 
